@@ -19,6 +19,7 @@ server_scripts {
 }
 
 shared_scripts {
+	'framework.lua',
 	'config.lua',
 }
 
